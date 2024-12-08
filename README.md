@@ -1,9 +1,9 @@
 # JS-clock
 
 This is a clock created using:
-# HTML, CSS, JAVASCRIPT 
+### **HTML, CSS, JAVASCRIPT*
 
 
-# Features:
+### *Features:*
 →Light and dark mode
 →Showing hours, mins, sec in digit
